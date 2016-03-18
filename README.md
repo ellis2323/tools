@@ -18,9 +18,24 @@ Tools
 
 Python:
  
- * APK size
+ * APK size: analyze the size of an APK (uncompressed and compressed size)
  * Generator of Android.mk with a template system
 
 C/C++:
 
  * alphaMultiplier: open a png and premultiply it and write the result
+
+
+APK size
+--
+
+apkstat.py stupid.apk 
+Group:                audio size:        0 compress size:        0
+Group:                  gfx size:   968478 compress size:   968478
+Group:       gfx_compressed size:        0 compress size:        0
+Group:               c-libs size:  8433604 compress size:  3195043
+Group:            java-libs size:  3874012 compress size:  1130006
+Group:                 conf size:     3127 compress size:      972
+Group:                 i18n size:        0 compress size:        0
+Group:                other size:   922642 compress size:   702716
+

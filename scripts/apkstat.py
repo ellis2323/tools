@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
 
 # Apkstats: simple script to visualize APK size from file types
 # Code by Laurent Mallet aka ellis2323 in 2014
