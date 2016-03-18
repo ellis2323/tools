@@ -1,10 +1,10 @@
 Tools used by ellis2323
----
+-
 
 Code by Laurent Mallet aka ellis2323 from 2005 to 2016
 
 Licence
----
+-
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 http://www.apache.org/licenses/LICENSE-2.0
@@ -14,7 +14,7 @@ either express or implied. See the License for the specific language governing p
 
 
 Tools
----
+-
 
 Python:
  
