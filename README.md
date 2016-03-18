@@ -25,6 +25,7 @@ C/C++:
 
 ## APK size
 
+```
 apkstat.py stupid.apk 
 Group:                audio size:        0 compress size:        0
 Group:                  gfx size:   968478 compress size:   968478
@@ -34,4 +35,4 @@ Group:            java-libs size:  3874012 compress size:  1130006
 Group:                 conf size:     3127 compress size:      972
 Group:                 i18n size:        0 compress size:        0
 Group:                other size:   922642 compress size:   702716
-
+```
