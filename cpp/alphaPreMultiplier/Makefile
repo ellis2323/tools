@@ -1,4 +1,6 @@
 
-alphaMultiplier: alphaMultiplier.cpp
-	clang++ -o alphaMultiplier alphaMultiplier.cpp
+# use on os X with Xcode installed
+
+alphaPreMultiplier: alphaPreMultiplier.cpp
+	clang++ -o alphaPreMultiplier alphaPreMultiplier.cpp
 
