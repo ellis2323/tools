@@ -1,3 +1,4 @@
 # c/c++ objects 
 **/*.o
 
+.DS_Store

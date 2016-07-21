@@ -22,6 +22,8 @@ sort_by = [	{ 'grp': 'audio', 'ext': [ 'wav', 'mp3', 'ogg'] },
 			{ 'grp': 'java-libs', 'ext': [ 'dex' ] },
 			{ 'grp': 'conf', 'ext': [ 'jspine', 'json', ] },
 			{ 'grp': 'i18n', 'ext': [ 'mo', 'po' ] },
+			{ 'grp': 'wear', 'ext': [ 'apk', ] },
+			{ 'grp': 'gwd', 'ext': [ 'gwd', 'GWD', ] },
 			{ 'grp': 'other', 'ext': [] },
 		]
 
